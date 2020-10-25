@@ -1,5 +1,5 @@
  body{
-    background-color: rgb(115, 119, 51);
+    background-image:radial-gradient(circle, #a44f1e, #b8792e, #c7a348, #d2ce6d, #dbf89b);
     background-repeat : no-repeat;
 }
 *{
